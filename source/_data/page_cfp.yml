@@ -1,0 +1,21 @@
+intro:
+  main_title: "Call for paper"
+  date_intro: "La call for paper sarà aperta fino al "
+  # NB la data è definita in `defaults`
+  content_1: "A uxday si parlerà di User Experience in tutte le sue declinazioni: se hai esperienze, casi di studio concreti, idee da condividere: proponi il tuo talk!"
+  content_2: ""
+more_info:
+  title: "Perché proporre un talk?"
+  description_1: "Avrai la possibilità di condividere le tue conoscenze e/o presentare il tuo caso di studio al pubblico. Puoi farti conoscere, costruire la tua rete professionale
+  ed essere parte attiva della conversazione sugli argomenti che ti interessano."
+  description_2: "Se il tuo talk viene selezionato, potrai presentarlo di persona a Faenza. Ti offriremo l'accesso alla conferenza, una cena con team e speaker, e una notte in hotel (o una sponsorizzazione gratuita per la tua azienda).
+  <a href='https://forms.gle/nGHuPD5BimxysdhcA'>Vai al form</a> per leggere tutti i dettagli sul funzionamento della conferenza e le procedure di selezione dei talk."
+contact:
+  email_intro: "Se vuoi chiederci informazioni, scrivi a "
+  help_intro: "Sul sito GrUSP trovi ulteriori dettagli e informazioni: visita "
+  help_url: "https://www.grusp.org/speaker/candidati/"
+cfp_register_url: "https://forms.gle/nGHuPD5BimxysdhcA"
+# address_aria_label: "hotel address"
+# email_aria_label: "hotel email"
+# phone_aria_label: "hotel phone"
+# website_aria_label: "hotel phone"

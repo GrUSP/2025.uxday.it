@@ -1,0 +1,101 @@
+read_more_label: "Maggiori informazioni"
+summary_page_aria_label: "workshop"
+summary_page_button_label: "Torna alla pagina workshop"
+# image credits (l'esempio è per la hero del CSS Day!)
+workshop_img_credits: 
+
+workshops:
+  font_variabili:
+    ws_id: font_variabili
+    is_external: false
+    page_uri: "workshop/font_variabili.html"
+    page_title: "Tipografia web e font variabili"
+    workshop_title: "Tipografia web e font variabili"
+    ticket_url: "https://uxday-2021.eventbrite.com"
+    ticket_label: "Partecipa"
+    location_title: "Dove"
+    # location: "Verona"
+    online_location: "online"
+    # location_name: "Hotel San Marco"
+    # location_name: "The Internet"
+    # location_contact_phone: "+045569011"
+    # location_contact_email: "sanmarco@sanmarco.vr.it"
+    # location_contact_url: "https://www.sanmarco.vr.it/"
+    # location_address: "Via Longhena 42, 37138 Verona (VE) Italy"
+    # location_maps_url: "https://www.google.com/maps/place/Hotel+San+Marco+Fitness+Pool+%26+SPA/@45.4399961,10.9697441,17z/data=!3m1!4b1!4m8!3m7!1s0x4781e1e30a8be6af:0x8091b108e1d130c6!5m2!4m1!1i2!8m2!3d45.4399961!4d10.9719328"
+    # location_maps_label: "Get directions"
+    # location_additional_info: "L'hotel offre tariffe scontate ai partecipanti ai workshop, sia per camere singole sia per camere doppie."
+    location_additional_info: "Il workshop si svolge online, in aula virtuale"
+    whatandwhen_title: "Quando"
+    # whatandwhen_additional_info: "Registrazione, caffè e pranzo inclusi"
+    whatandwhen_additional_info: "8 ore, divise in due sessioni: Martedì 16 e Mercoledì 17 Marzo 2021, dalle 9 alle 13."
+    date: 2021-03-16 09:00
+    end_date: 2021-03-17 13:00
+    date_text:
+    language_title: "Lingua"
+    language: "italiano"
+    # language_ext: "Lingua: italiano"
+    language_additional_info: ""  
+    # collab: "Workshop realizzato in collaborazione con Giulia Laco"
+    description: "Progettare un sistema tipografico per siti web sfruttando i vantaggi del formato OpenType 1.8"
+    description_long: 
+      "<strong> Progettare un sistema tipografico per siti web sfruttando i vantaggi del formato OpenType 1.8 </strong>
+      <br>
+      <br  /> I font variabili rappresentano una grossa novità per la tipografia dei siti web e godono oggi di un buon supporto a livello dei browser. Il formato rappresenta inoltre un’opportunità di miglioramento delle performance dei web font e un sorprendente ampliamento delle possibilità tipografiche. I siti web sono strutture complesse in cui il testo compare con diverse funzioni: dal corpo del testo, ai titoli, ai menù di navigazione e non solo. Ogni parte merita un diverso trattamento tipografico per esaltare al contempo l'architettura del sito, la struttura di pagina e la natura stessa del contenuto. I font variabili sembrano proprio venirci in aiuto. Per sfruttarne appieno le potenzialità, occorre capirne le ragioni storiche e immaginarne l’utilizzo creativo nelle interfacce digitali, nell’animazione del testo, nel design fluido, fino all’espressione del brand in modi nuovi, prima impensabili.
+      <br>
+      <br  /> Nel workshop verranno affrontati sia aspetti teorici che pratici.
+      <br>
+      <br  /> <strong> Cosa ottieni frequentando questo workshop: </strong>
+      <ul>
+        <li>• Conoscenza del formato dei font variabili e collocazione nella storia tipografica</li>
+        <li>• Capacità di corretta implementazione dei font variabili e dei fallback font con consapevolezza delle tematiche legate al web font loading</li>
+        <li>• Consapevolezza di cosa si acquista quando si compera un font</li>
+        <li>• Spunti per la creatività in base a ciò che un dato font prevede</li!>
+      </ul>
+      <br>"
+    # video trailer?
+    trailer: false
+    trailer_url: "https://player.vimeo.com/video/352012164"
+    # nota sul titolo: se il linguaggio specificato in `language` NON in clude 'italian', in pagina viene aggiunta la "s" finale
+    teacher_title: "Docente"
+    teachers:
+      teacher_1:
+        teacher_name: "Giulia Laco"
+        teacher_bio: "Formazione umanistica mescolata alla Logica matematica, la Linguistica, l’Intelligenza Artificiale e la Filosofia del Linguaggio. 
+          Attratta dal Web design fin dagli esordi, sono stata webmaster in azienda nell’altro secolo e Web designer/developer in questo, appassionandomi ciclicamente a nuove discipline: Web Marketing, Architettura dell’Informazione, SEO, UX e Web Typography – per citarne alcune. 
+          Da qualche anno cerco di ispirare la comunità dei web designer all’utilizzo consapevole della tipografia per il web."
+        pic_filename: "giulia-laco.jpg"
+        teacher_role: "Web designer/developer"
+        teacher_org: "WebMatter"
+    # teacher_2:
+      #  teacher_name: ""
+      # teacher_bio: ""
+      # pic_filename: ""
+      # teacher_role: ""
+      # teacher_org: ""
+    topics_title: "Argomenti trattati"
+    topics:
+      - "Web font, font di sistema, UI system font"
+      - "Formati di font"
+      - "Direttiva CSS @font-face"
+      - "Il caricamento dei font, FOIT/FOUT"
+      - "La proprietà font-display"
+      - "Fallback font e font-stack"
+      - "I font variabili"
+      - "Gli assi di variazione"
+      - "Proprietà CSS (basso livello vs. CSS4)"
+      - "Font-size (unità di misura)"
+      - "Responsive Web Typography vs. Fluid Web Typography"
+      - "Typesetting del paragrafo perfetto"
+      - "Anatomia dei caratteri"      
+      - "Classificazione"
+      - "Font-pairing" 
+      - "Testo e funzione"      
+    addressees_title: "A chi è rivolto"
+    addressees_description: "Il corso è rivolto a designer, sviluppatori, product owner e manager che vogliano applicare font variabili e principi di tipografia al proprio prodotto o progetto."
+    requirements_title: "Requisiti di partecipazione"
+    requirements_description: "Per partecipare è necessaria una conoscenza base di CSS e HTML. <br /> Ti serviranno inoltre un editor di codice e il browser (consigliata: ultima versione di Firefox) <br /> Verranno suggeriti prima del corso eventuali altri strumenti/configurazioni utili."
+    useful_info_title: "Informazioni utili"
+    useful_info_description: "Il workshop si svolge online e dura 8 ore, divise in due mattine: Martedì 16 e Mercoledì 17 Marzo 2021, dalle 9 alle 13."
+    # CTA
+    cta_title: "Hurry up. There are only a few available places!"

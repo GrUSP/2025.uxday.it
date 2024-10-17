@@ -1,0 +1,30 @@
+intro:
+  main_title: "Welcome"
+  content_1: "uxday è la prima conferenza italiana dedicata esclusivamente alla User Experience, in tutte le sue declinazioni. Nasce da GrUSP, che organizza da anni conferenze come cssday, Kerning, jsday e molte altre."
+  content_2: "L'obiettivo dell'evento è consentire alla community di incontrarsi e condividere esperienze divertendosi e facendo rete in un contesto piacevole."
+# this is the global "read more" label
+readmore_label: "Leggi tutto"
+# these are the title and descriptions of the 6 blocks
+info_about:
+  title: "About"
+  content: "GrUSP ed il team dietro al uxday"
+info_coc:
+  title: "COC"
+  content: "Regole di comportamento"
+info_safety:
+  title: "Salute pubblica"
+  content: "La salute di tutti è una nostra priorità"
+info_scholarships:
+  title: "Scholarships"
+  content: "Come richiedere un biglietto gratuito"
+info_cfp:
+  title: "CFP"
+  content: "Presenta un talk"
+info_venue:
+  title: "Dove"
+  content: "Informazioni utili"
+info_ticket:
+  title: "Biglietti"
+  content: "I biglietti sono disponibili su Tito"
+  # the tickets link is the only one that does not use the "global" label
+  readmore_label: "ACQUISTA"

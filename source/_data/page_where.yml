@@ -1,0 +1,32 @@
+header:
+  title_pre: "Appuntamento a"
+intro:
+  main_title: "Conferenza ibrida: in presenza e online"
+  content_1: "La conferenza si svolge di persona a Faenza ed è anche possibile partecipare da remoto."
+  content_2: ""
+city_info:
+  title: "Come funziona"
+  subtitle_1: "La venue fisica"
+  description_1: "L'accesso all'evento fisico sarà subordinato alle eventuali norme vigenti."
+  subtitle_2: "La venue virtuale"
+  description_2: "Sarà anche possibile partecipare solo da remoto, acquistando il relativo biglietto. L'evento online si svolge su una piattaforma che permette di interagire con speaker e pubblico, e visitare gli stand degli sponsor."
+map:
+  title: "Dove siamo"
+  map_url: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11424.934272024533!2d11.8804354!3d44.2845852!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xde16dcf939b49814!2sCinema%20Sarti!5e0!3m2!1sit!2sit!4v1639691332216!5m2!1sit!2sit"
+  video_caption: ""
+hotels:
+  title: "La location dell'evento"
+  intro: "La venue è facilmente raggiungibile a piedi dalla stazione ferroviaria di Faenza."
+  agreements:
+    hotel_1:
+      name: "Cinema Teatro Sarti"
+      address: "Via Carlo Cesare Scaletta, 10, 48018 Faenza RA"
+      website: ""
+      maps_url: "https://goo.gl/maps/X3dA7XJiVmkvhnPFA"
+      phone: ""
+      phone_label: ""
+      email: ""
+address_aria_label: "hotel address"
+email_aria_label: "hotel email"
+phone_aria_label: "hotel phone"
+website_aria_label: "hotel phone"

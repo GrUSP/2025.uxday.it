@@ -1,0 +1,69 @@
+intro:
+  main_title: "About"
+  content_1:
+    "Il uxday è orgogliosamente organizzato da GrUSP. <br>
+     GrUSP è una community fondata nel 2003 come PHP User Group, che è diventata il punto di riferimento in Italia per le buone pratiche in tutti i campi dello sviluppo web.<br>
+     Da allora abbiamo organizzato moltissime conferenze, perseguendo sempre l'obiettivo di creare opportunità per le persone di incontrarsi, imparare, condividere e crescere insieme."
+  content_2:
+    "GrUSP è un'organizzazione no-profit il cui obiettivo è migliorare l'ecosistema italiano di sviluppo web. <br>
+    Organizziamo eventi e workshop di alta qualità per developer, e promuoviamo la creazione di User Group locali (PUG), aiutandoli nelle loro attività.<br>
+    La diversità e l'inclusione sono sempre state al centro delle nostre attività.
+    Applichiamo un codice di condotta da molti anni e abbiamo programmi di borse di studio (scholarships) per ciascuna delle nostre conferenze."
+more:
+  title: "<a name='comunicato'>uxday</a>"
+  content_1:
+    "uxday è la prima conferenza italiana dedicata esclusivamente alla User Experience, in tutte le sue declinazioni.
+    L'evento era previsto per il 9 Giugno 2023, ma a seguito dell'alluvione che ha interessato Faenza e la Romagna è stato posticipato al 29 Settembre 2023.
+    <br><br /><b><i>COMUNICATO DEL 26 MAGGIO 2023</b></i><br />
+    Faenza e tutta la Romagna stanno affrontando un’alluvione che ha lasciato importanti danni alla città e alle infrastrutture. Parte del nostro team risiede proprio a Faenza e dintorni.
+    Il cinema teatro Sarti dove si tiene l’evento non è stato danneggiato, ma moltissimi edifici (e quindi hotel e alloggi) non sono agibili, ci sono moltissime famiglie che non possono tornare nelle proprie case, le persone sono impegnate a ripulire ed aiutarsi, alcune strade e ferrovie che erano state interrotte sono in manutenzione ma è ancora complicato muoversi in tutta la Regione.
+    Ci auguriamo di cuore che entro poche settimane tutto venga rimesso a posto, e sappiamo quanta forza abbia la gente che sta affrontando tutto questo; e proprio per rispetto verso di loro, la decisione migliore ci sembra quella di dare tempo e quindi posticipare l’evento."
+  content_2:
+past_edition:
+  title: "Guarda le passate edizioni della conferenza"
+  video_url: "https://vimeo.com/showcase/9602627/embed"
+  video_caption: "Guarda i video dell'ultima edizione"
+team:
+  title: "Il team"
+  intro: ""
+  members:
+    member_1:
+      name: "Matteo Beccati"
+      role: "GrUSP Founder & Board Member"
+      pic_filename: "matteo_yellow.jpg"
+    member_11:
+      name: "Cristina Chesini"
+      role: "Training Manager"
+      pic_filename: "cristina_yellow.jpg"
+    member_3:
+      name: "Cesare D'Amico"
+      role: "GrUSP founder & Board Member"
+      pic_filename: "cesare_yellow.jpg"
+    member_4:
+      name: "Giovanna Ferrari"
+      role: "Sponsors Manager"
+      pic_filename: "giovanna_yellow.jpg"
+    member_5:
+      name: "Giorgio Fochesato"
+      role: "Community manager"
+      pic_filename: "giorgio_yellow.jpg"
+    member_6:
+      name: "Francesco Fullone"
+      role: "Trouble maker"
+      pic_filename: "fullo_yellow.jpg"
+    member_7:
+      name: "Lara Lombardi"
+      role: "Marketing manager"
+      pic_filename: "lara_yellow.jpg"
+    member_8:
+      name: "Daniel Londero"
+      role: "GrUSP Board Member"
+      pic_filename: "daniel_yellow.jpg"
+    member_9:
+      name: "Francesco Mancin"
+      role: "Regia e Video"
+      pic_filename: "francesco_yellow.jpg"
+    member_10:
+      name: "Giulia Tosato"
+      role: "Event Manager"
+      pic_filename: "giulia_yellow.jpg"
