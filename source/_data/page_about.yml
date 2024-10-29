@@ -1,7 +1,7 @@
 intro:
   main_title: "About"
   content_1:
-    "Il uxday è orgogliosamente organizzato da GrUSP. <br>
+    "uxday è orgogliosamente organizzato da GrUSP. 
      GrUSP è una community fondata nel 2003 come PHP User Group, che è diventata il punto di riferimento in Italia per le buone pratiche in tutti i campi dello sviluppo web.<br>
      Da allora abbiamo organizzato moltissime conferenze, perseguendo sempre l'obiettivo di creare opportunità per le persone di incontrarsi, imparare, condividere e crescere insieme."
   content_2:
@@ -12,12 +12,7 @@ intro:
 more:
   title: "<a name='comunicato'>uxday</a>"
   content_1:
-    "uxday è la prima conferenza italiana dedicata esclusivamente alla User Experience, in tutte le sue declinazioni.
-    L'evento era previsto per il 9 Giugno 2023, ma a seguito dell'alluvione che ha interessato Faenza e la Romagna è stato posticipato al 29 Settembre 2023.
-    <br><br /><b><i>COMUNICATO DEL 26 MAGGIO 2023</b></i><br />
-    Faenza e tutta la Romagna stanno affrontando un’alluvione che ha lasciato importanti danni alla città e alle infrastrutture. Parte del nostro team risiede proprio a Faenza e dintorni.
-    Il cinema teatro Sarti dove si tiene l’evento non è stato danneggiato, ma moltissimi edifici (e quindi hotel e alloggi) non sono agibili, ci sono moltissime famiglie che non possono tornare nelle proprie case, le persone sono impegnate a ripulire ed aiutarsi, alcune strade e ferrovie che erano state interrotte sono in manutenzione ma è ancora complicato muoversi in tutta la Regione.
-    Ci auguriamo di cuore che entro poche settimane tutto venga rimesso a posto, e sappiamo quanta forza abbia la gente che sta affrontando tutto questo; e proprio per rispetto verso di loro, la decisione migliore ci sembra quella di dare tempo e quindi posticipare l’evento."
+    "uxday è la prima conferenza italiana dedicata esclusivamente alla User Experience, in tutte le sue declinazioni."
   content_2:
 past_edition:
   title: "Guarda le passate edizioni della conferenza"

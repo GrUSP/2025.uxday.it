@@ -24,9 +24,9 @@ block_2:
 levels:
   level_1:
     name: Main
-    amount: 10000
+    amount: 5000
     vat_label: "(+ VAT 22%)"
-    available_slots: 1
+    available_slots: 0
     description_1:
       - "Talk (massimo 30 minuti, non sono accettati talk commerciali)"
       - "Accesso alla lista dei partecipanti (che hanno dato consenso a condivisione dati)"
@@ -49,9 +49,9 @@ levels:
       - "<strong>10</strong> biglietti free per l'evento online"
   level_2:
     name: Diamond
-    amount: 5000
+    amount: 3000
     vat_label: "(+ VAT 22%)"
-    available_slots: 2
+    available_slots: 0
     description_1:
       - "Accesso alla lista dei partecipanti (che hanno dato consenso a condivisione dati)"
     description_2:
@@ -73,9 +73,9 @@ levels:
       - "<strong>8</strong> biglietti free per l'evento online"
   level_3:
     name: Platinum
-    amount: 3000
+    amount: 1500
     vat_label: "(+ VAT 22%)"
-    available_slots: 4
+    available_slots: 1
     description_2:
       - "Stand fisico - piccolo"
       - "Booth virtuale - piccolo"
@@ -95,9 +95,9 @@ levels:
       - "<strong>6</strong> biglietti free per l'evento online"
   level_4:
     name: Gold
-    amount: 1500
+    amount: 750
     vat_label: "(+ VAT 22%)"
-    available_slots: 8
+    available_slots: 6
     description_3:
       - "Vostro rollup nella sala della conferenza fisica"
       - "Logo nei rollup della conferenza"
@@ -114,9 +114,9 @@ levels:
       - "<strong>5</strong> biglietti free per l'evento online"
   level_5:
     name: Silver
-    amount: 750
+    amount: 500
     vat_label: "(+ VAT 22%)"
-    available_slots: 16
+    available_slots: 8
     description_3:
       - "Logo nei rollup della conferenza"
       - "Logo in sovraimpressione durante la diretta (a rotazione)"
@@ -132,9 +132,9 @@ levels:
       - "<strong>4</strong> biglietti free per l'evento online"
   level_6:
     name: Bronze
-    amount: 500
+    amount: 250
     vat_label: "(+ VAT 22%)"
-    available_slots: 32
+    available_slots: 16
     description_5:
       - "Logo nelle comunicazioni pre-evento"
       - "Logo sul sito della conferenza"
@@ -145,7 +145,7 @@ levels:
     name: Diversity
     amount: 500
     vat_label: "(+ VAT 22%)"
-    available_slots: 32
+    available_slots: 2
     description_5:
       - "Logo nelle comunicazioni pre-evento"
       - "Logo sul sito della conferenza"

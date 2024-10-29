@@ -11,9 +11,9 @@ theme: "grusp_conf"
 # Site / OG
 type: website
 slug: uxday
-edition: 2023
-title: "uxday 2023"
-description: "uxday 2023 - la prima conferenza italiana dedicata alla UX"
+edition: 2025
+title: "uxday 2025"
+description: "uxday 2025 - la prima conferenza italiana dedicata alla UX"
 #   separate keywords by comma, no spaces
 keywords: conference,software conference,ux,design,webdev,tech conference
 author: GrUSP
@@ -36,7 +36,7 @@ breadcrumb:
 # URL
 ## If your site is put in a subdirectory, set url as 'yoursite.com/child' and root as '/child/'
 # TODO actual URL (per site)
-url: https://2023.uxday.it/
+url: https://2025.uxday.it/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

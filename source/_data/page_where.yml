@@ -5,11 +5,13 @@ intro:
   content_1: "La conferenza si svolge di persona a Faenza ed è anche possibile partecipare da remoto."
   content_2: ""
 city_info:
-  title: "Come funziona"
+  title: Cinema Teatro Sarti
   subtitle_1: "La venue fisica"
-  description_1: "L'accesso all'evento fisico sarà subordinato alle eventuali norme vigenti."
+  description_1: "Nel 1906, con l'obiettivo di ispirare i cittadini di Faenza 'al vero, al buono e al bello' attraverso un intrattenimento sano, la Società anonima cooperativa 'Casa del Popolo' decide di trasformare un edificio, fino ad allora adibito a stalla e situato vicino alla piazza centrale, in un teatro.
+    Il progetto viene curato dall’architetto Vincenzo Pritelli e dall’ingegnere Enrico Camangi. La sala, inaugurata il 29 maggio 1910, è dedicata a Giuseppe Sarti, compositore faentino del Settecento, noto a livello internazionale e citato da Mozart nel 'Don Giovanni' con un’aria di una sua opera.
+    La sala presenta una struttura semicircolare, arricchita da due ordini di gallerie sostenute da colonne con capitelli in gesso. Poco dopo, viene adattata a cinematografo, ma mantiene uno spazio sul palco adatto a conferenze e spettacoli che non richiedono scenografie elaborate."
   subtitle_2: "La venue virtuale"
-  description_2: "Sarà anche possibile partecipare solo da remoto, acquistando il relativo biglietto. L'evento online si svolge su una piattaforma che permette di interagire con speaker e pubblico, e visitare gli stand degli sponsor."
+  description_2: "Sarà anche possibile partecipare da remoto, acquistando il relativo biglietto. L'evento online si svolge su una piattaforma che permette di interagire con speaker e pubblico in diretta."
 map:
   title: "Dove siamo"
   map_url: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11424.934272024533!2d11.8804354!3d44.2845852!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xde16dcf939b49814!2sCinema%20Sarti!5e0!3m2!1sit!2sit!4v1639691332216!5m2!1sit!2sit"

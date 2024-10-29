@@ -23,9 +23,9 @@ conference:
   contact_email: "uxday@grusp.org"
   # these are for the hero section
   title_pre: ""
-  title: "uxday 2023"
+  title: "uxday 2025"
   city: "Faenza"
-  date: 2023-09-29T09:00+02:00
+  date: 2025-06-06T09:00+02:00
   # Use the next field to override the date in the hero
   hero_date_text:
   countdown_visible: true
@@ -33,32 +33,32 @@ conference:
   countdown_hours: "ore"
   countdown_minutes: "minuti"
   countdown_seconds: "secondi"
-  ticket_button_visible: true
+  ticket_button_visible: false
   hero_buy_tickets_label: "Partecipa online"
   # image credits (l'esempio è per la hero del CSS Day!)
   # hero_img_credits: "Image by Gianni Careddu - Own work, <a href='https://commons.wikimedia.org/w/index.php?curid=74821344 target='_blank' rel='noopener noreferrer'>CC BY-SA 4.0</a>"
   # "update" component. set the first parameter to true to make it appear in home page, false means hidden
-  update_visible: true
-  update_is_warning: true
+  update_visible: false
+  update_is_warning: false
   update_warning_header: "Sold-out!"
   update_title: "Sold out"
   update_description: "I posti per partecipare in presenza a Faenza sono esauriti! Puoi partecipare online. La conferenza è stata rinviata al 29 Settembre a causa delle alluvioni in Romagna."
   update_link_url: "https://2023.uxday.it/welcome/about.html#comunicato"
   update_link_label: "Maggiori spiegazioni sul rinvio"
   # "call for papers" component. set the first parameter to true to make it appear in home page, false means hidden
-  cfp_open: false
+  cfp_open: true
   cfp_readmore_label: "Continua a leggere"
   cfp_open_label: "Proponi un talk entro il"
   cfp_open_title: "Call For Papers aperta!"
-  cfp_deadline: 2023-02-01T23:59+02:00
+  cfp_deadline: 2025-01-31T23:59+02:00
   cfp_register_label: "Invia la tua proposta"
   cfp_register_aria_label: "Inviaci ora la tua proposta"
   # "general information" ("what is it?") component
   geninfo_visible: true
   geninfo_title: "Che cos'è?"
-  geninfo_description: "uxday è la prima conferenza italiana dedicata esclusivamente alla User Experience, in tutte le sue declinazioni.
-  </br> <br />Organizzata dal team GrUSP, come già <a href='https://cssday.it'>cssday</a> e <a href='https://kerning.it'>kerning</a>, sarà l'occasione per la community italiana di designer e in particolare per chi si occupa di UX di incontrarsi, condividere esperienze e conoscenze, far nascere nuovi progetti e collaborazioni.
-  </br> <br />La seconda edizione di uxday, inizialmente prevista per il 9 Giugno, <b>è stata rinviata in seguito all'alluvione e si svolge a Faenza Venerdì 29 Setttembre 2023</b>. Si può partecipare sia in presenza che da remoto."
+  geninfo_description: "<b>uxday</b> è la prima conferenza in Italia dedicata esclusivamente alla User Experience in tutte le sue sfaccettature. Nel 2025 celebrerà la sua quarta edizione, organizzata dal team di <a href='https://www.grusp.org' target=_blank>GrUSP</a>, noto per eventi come cssday e kerning.
+    <br>&nbsp;<br>Sarà un'opportunità imperdibile per la community italiana di designer, con un focus speciale su chi si occupa di UX, per incontrarsi, condividere esperienze, conoscenze e dare vita a nuovi progetti e collaborazioni.
+    <br>&nbsp;<br>L'evento si terrà a Faenza il 6 giugno 2025, nello splendido ed affascinante Teatro Sarti. Il patio offrirà un'atmosfera ideale per i numerosi momenti di networking: una location d'eccezione per una conferenza unica nel suo genere!"
   geninfo_about_label: "About"
   geninfo_coc_label: "Codice di condotta"
   geninfo_scholarships_label: "Scholarships"
@@ -89,7 +89,7 @@ conference:
   newsletter_legal_url: "https://mailchimp.com/legal/"
   newsletter_legal_label: "Informazioni riguardo la privacy policy di Mailchimp"
   # "speakers" component. set the first parameter to true to make it appear in home page, false means hidden
-  speakers_visible: true
+  speakers_visible: false
   speakers_title: ""
   mcs_title: ""
   speaker_count_text: "Saliranno sul palco di uxday"
@@ -107,7 +107,7 @@ conference:
     - "Metodologie"
   topics_payoff: "...e molto altro!"
   # "workshop" component. set the first parameter to true to make it appear in home page, false means hidden
-  workshop_visible: true
+  workshop_visible: false
   workshops_title: "workshop"
   workshops_tickets_label: "Acquista i biglietti"
   workshops_readmore_label: "Continua a leggere"
@@ -139,10 +139,10 @@ conference:
   # image credits (l'esempio è per la hero del CSS Day!)
   venue_img_credits: ""
   # Sponsors section in home page. set the first parameter to true to make it appear in home page, false means hidden
-  sponsors_visible: true
+  sponsors_visible: false
   sponsor_title_home: "Sponsor"
   # this is for the Community partners section in home page
-  community_partners: true
+  community_partners: false
   community_partners_title: "Community partner"
   # community_partners_text: ""
   # this is for the Social links block
@@ -161,6 +161,8 @@ conference:
   past_editions_pre: ""
   past_editions:
     2022: "2022"
+    2023: "2023"
+    2024: "2024"
   past_editions_videos_pre: "Tutti i video delle passate edizioni sono disponibili su "
   past_editions_videos_vimeo_label: "Vimeo"
   past_editions_videos_mid: " e "
@@ -186,4 +188,4 @@ conference:
     tag_manager_id: "GTM-PFFLRF9"
   # Tito tickets
   tito:
-    event: grusp/uxday-2024
+    event: grusp/uxday-2025
