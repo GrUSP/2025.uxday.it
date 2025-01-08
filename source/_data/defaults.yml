@@ -33,8 +33,8 @@ conference:
   countdown_hours: "ore"
   countdown_minutes: "minuti"
   countdown_seconds: "secondi"
-  ticket_button_visible: false
-  hero_buy_tickets_label: "Partecipa online"
+  ticket_button_visible: true
+  hero_buy_tickets_label: "Acquista il biglietto"
   # image credits (l'esempio è per la hero del CSS Day!)
   # hero_img_credits: "Image by Gianni Careddu - Own work, <a href='https://commons.wikimedia.org/w/index.php?curid=74821344 target='_blank' rel='noopener noreferrer'>CC BY-SA 4.0</a>"
   # "update" component. set the first parameter to true to make it appear in home page, false means hidden
@@ -139,7 +139,7 @@ conference:
   # image credits (l'esempio è per la hero del CSS Day!)
   venue_img_credits: ""
   # Sponsors section in home page. set the first parameter to true to make it appear in home page, false means hidden
-  sponsors_visible: false
+  sponsors_visible: true
   sponsor_title_home: "Sponsor"
   # this is for the Community partners section in home page
   community_partners: false

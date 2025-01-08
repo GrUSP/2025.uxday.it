@@ -1,16 +1,33 @@
 intro:
-  slogan_1: "La tua attività è connessa alla User Experience?"
-  slogan_2: "Vuoi partecipare al successo della conferenza?"
-  content_1: "Ottima idea! Partecipa a questa unica opportunità in Italia facendo parte della nostra community ricevendo visibilità."
-  content_2: ""
+  slogan_1: "La vostra attività è connessa al mondo della User Experience? Questa è la vostra occasione per contribuire al successo di uxday e cogliere un'opportunità unica!"
+  slogan_2: "Perché sponsorizzare uxday?"
+  content_1: "La conferenza è organizzato da <a href='https://www.grusp.org' target=_blank>GrUSP</a>, nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web.
+            Organizziamo eventi, conferenze ed incontri informali coinvolgendo professionisti italiani ed internazionali.
+            Puntiamo a rendere l’ecosistema del mondo italiano dello sviluppo web migliore sia sotto l’aspetto delle competenze che delle opportunità creando maggiore consapevolezza attraverso il confronto e la condivisione.<br>&nbsp;<br>
+              <b>Cosa distingue GrUSP?</b>
+              <ul>
+                <li><b>- 21 anni di esperienza:</b> Dal 2003 organizziamo conferenze tech internazionali, offrendo costantemente eventi di alta qualità.</li>
+                <li><b>- Pubblico mirato:</b> Il 90% dei nostri partecipanti sono professionisti di livello medio-alto, garantendo un contatto con un pubblico altamente esperto.</li>
+                <li><b>- Brand Awarness:</b> Migliora la presenza del tuo marchio e connettiti direttamente con il tuo mercato di riferimento.</li>
+                <li><b>- Talent Acquisition:</b> Accedi a un bacino di professionisti qualificati all'interno della comunità, ideale per opportunità di reclutamento.</li>
+                <li><b>- Leadership di mercato:</b> Rafforza la tua posizione di leader nel settore.</li>
+              </ul>
+              "
+  content_2: "<p><b>Diversity sponsorships</b><br>Supporta il nostro impegno per la diversità e l'inclusione contribuendo al Fondo per la Diversità e l'Inclusione di GrUSP. Questo fondo sostiene programmi di borse di studio e fornisce biglietti scontati o gratuiti a individui provenienti da gruppi sottorappresentati nel settore tecnologico, o a coloro che necessitano di assistenza finanziaria per partecipare.</p>
+              <p>Contattaci per maggiori informazioni sulle opportunità che ti attendono. Scrivi a <b><a href='mailto:uxday@grusp.org'>uxday@grusp.org</a></b></p>"
   content_3: ""
 block_2:
-  title: "Opzioni di sponsorship"
-  slogan: "Ottieni il massimo dalla tua partecipazione"
-  subtitle_1: "Hai idee o suggerimenti?"
-  content_1: "Contattaci per organizzare le opzioni più adatta alle tue esigenze o per condividere una brillante idea di sponsorizzazione."
-  subtitle_2: "Pacchetti di sponsorizzazione"
-  content_2: "Puoi scegliere tra uno dei seguenti pacchetti di sponsorizzazione. Scrivici se hai bisogno di ulteriori informazioni."
+  title: "Vantaggi Esclusivi della Sponsorizzazione"
+  slogan: "Sfrutta al massimo la tua partecipazione!"
+  subtitle_1: "Alcuni dei vantaggi!"
+  content_1: "- talk tecnico sul palco dell’evento<br>
+- stand in presenza<br>
+- biglietti gratuiti per il tuo team<br>
+- i tuoi gadget distribuiti a tutto il pubblico<br>
+- il tuo logo in tutte le comunicazioni<br>
+…e molto altro!"
+  subtitle_2: "Sponsorizza la conferenza!"
+  content_2: "Vuoi far crescere il tuo brand sponsorizzando uno dei nostri eventi o conferenze? Ci piacerebbe ascoltare le tue idee e creare una partnership su misura per te. Entriamo in contatto e creiamo qualcosa di straordinario insieme! Scrivici: <b><a href='mailto:uxday@grusp.org'>uxday@grusp.org</a></b>"
 # level description blocks:
 #   If the numbered description is not there, the relevant section will not be displayed
 #   Every block has its own background color based on the block number
@@ -25,130 +42,136 @@ levels:
   level_1:
     name: Main
     amount: 5000
-    vat_label: "(+ VAT 22%)"
-    available_slots: 0
+    vat_label: "(+ IVA 22%)"
+    available_slots: 1
     description_1:
-      - "Talk (massimo 30 minuti, non sono accettati talk commerciali)"
-      - "Accesso alla lista dei partecipanti (che hanno dato consenso a condivisione dati)"
+      - "Talk tecnico (massimo 30 minuti)"
+      - "Lista dei partecipanti (che hanno dato consenso)"
     description_2:
-      - "Stand fisico - grande"
-      - "Booth virtuale - grande"
+      - "Stand in presenza - grande"
+
     description_3:
-      - "Vostro rollup nella sala della conferenza fisica"
+      - "Vostro rollup esposto durante la conferenza"
       - "Logo nei rollup della conferenza"
-      - "Logo in sovraimpressione durante la diretta (a rotazione)"
+      - "Logo in sovraimpressione durante la diretta streaming (a rotazione)"
     description_4:
-      - "Possibilità di portare e distribuire i vostri gadget"
-      - "Banner nella digital swag bag"
+      - "Vostri gadget e/o flyer nelle welcome bag"
+      - "Vostro banner nella digital swag bag"
     description_5:
-      - "Logo nelle comunicazioni pre-evento"
+      - "Logo nelle comunicazioni mail pre/post evento"
       - "Logo sul sito della conferenza"
-      - "Ringraziamenti in diretta durante apertura e chiusura dell'evento"
+      - "Ringraziamenti durante apertura e chiusura dell'evento"
+      - "Ringraziamenti dedicati sui social"
     description_6:
       - "<strong>5</strong> biglietti free per l'evento di persona"
       - "<strong>10</strong> biglietti free per l'evento online"
   level_2:
     name: Diamond
     amount: 3000
-    vat_label: "(+ VAT 22%)"
-    available_slots: 0
+    vat_label: "(+ IVA 22%)"
+    available_slots: 2
     description_1:
-      - "Accesso alla lista dei partecipanti (che hanno dato consenso a condivisione dati)"
+      - "Lista dei partecipanti (che hanno dato consenso)"
     description_2:
-      - "Stand fisico - grande"
-      - "Booth virtuale - medio"
+      - "Stand in presenza - grande"
+
     description_3:
-      - "Vostro rollup nella sala della conferenza fisica"
+      - "Vostro rollup esposto durante la conferenza"
       - "Logo nei rollup della conferenza"
-      - "Logo in sovraimpressione durante la diretta (a rotazione)"
+      - "Logo in sovraimpressione durante la diretta streaming (a rotazione)"
     description_4:
-      - "Possibilità di portare e distribuire i vostri gadget"
-      - "Banner nella digital swag bag"
+      - "Vostri gadget e/o flyer nelle welcome bag"
+      - "Vostro banner nella digital swag bag"
     description_5:
-      - "Logo nelle comunicazioni pre-evento"
+      - "Logo nelle comunicazioni mail pre/post evento"
       - "Logo sul sito della conferenza"
-      - "Ringraziamenti in diretta durante apertura e chiusura dell'evento"
+      - "Ringraziamenti durante apertura e chiusura dell'evento"
+      - "Ringraziamenti dedicati sui social"
     description_6:
       - "<strong>4</strong> biglietti free per l'evento di persona"
       - "<strong>8</strong> biglietti free per l'evento online"
   level_3:
     name: Platinum
     amount: 1500
-    vat_label: "(+ VAT 22%)"
-    available_slots: 1
+    vat_label: "(+ IVA 22%)"
+    available_slots: 6
     description_2:
-      - "Stand fisico - piccolo"
-      - "Booth virtuale - piccolo"
+      - "Stand in presenza - piccolo"
+
     description_3:
-      - "Vostro rollup nella sala della conferenza fisica"
+      - "Vostro rollup esposto durante la conferenza"
       - "Logo nei rollup della conferenza"
-      - "Logo in sovraimpressione durante la diretta (a rotazione)"
+      - "Logo in sovraimpressione durante la diretta streaming (a rotazione)"
     description_4:
-      - "Possibilità di portare e distribuire i vostri gadget"
-      - "Banner nella digital swag bag"
+      - "Vostri gadget e/o flyer nelle welcome bag"
+      - "Vostro banner nella digital swag bag"
     description_5:
-      - "Logo nelle comunicazioni pre-evento"
+      - "Logo nelle comunicazioni mail pre/post evento"
       - "Logo sul sito della conferenza"
-      - "Ringraziamenti in diretta durante apertura e chiusura dell'evento"
+      - "Ringraziamenti durante apertura e chiusura dell'evento"
+      - "Ringraziamenti dedicati sui social"
     description_6:
       - "<strong>3</strong> biglietti free per l'evento di persona"
       - "<strong>6</strong> biglietti free per l'evento online"
   level_4:
     name: Gold
     amount: 750
-    vat_label: "(+ VAT 22%)"
-    available_slots: 6
+    vat_label: "(+ IVA 22%)"
+    available_slots: 8
     description_3:
-      - "Vostro rollup nella sala della conferenza fisica"
+      - "Vostro rollup esposto durante la conferenza"
       - "Logo nei rollup della conferenza"
-      - "Logo in sovraimpressione durante la diretta (a rotazione)"
+      - "Logo in sovraimpressione durante la diretta streaming (a rotazione)"
     description_4:
-      - "Possibilità di portare e distribuire i vostri gadget"
-      - "Banner nella digital swag bag"
+      - "Vostri gadget e/o flyer nelle welcome bag"
+      - "Vostro banner nella digital swag bag"
     description_5:
-      - "Logo nelle comunicazioni pre-evento"
+      - "Logo nelle comunicazioni mail pre/post evento"
       - "Logo sul sito della conferenza"
-      - "Ringraziamenti in diretta durante apertura e chiusura dell'evento"
+      - "Ringraziamenti durante apertura e chiusura dell'evento"
+      - "Ringraziamenti dedicati sui social"
     description_6:
       - "<strong>2</strong> biglietti free per l'evento di persona"
       - "<strong>5</strong> biglietti free per l'evento online"
   level_5:
     name: Silver
     amount: 500
-    vat_label: "(+ VAT 22%)"
-    available_slots: 8
+    vat_label: "(+ IVA 22%)"
+    available_slots: 16
     description_3:
       - "Logo nei rollup della conferenza"
-      - "Logo in sovraimpressione durante la diretta (a rotazione)"
     description_4:
-      - "Possibilità di portare e distribuire i vostri gadget"
-      - "Banner nella digital swag bag"
+      - "Vostri gadget e/o flyer nelle welcome bag"
+      - "Vostro banner nella digital swag bag"
     description_5:
-      - "Logo nelle comunicazioni pre-evento"
+      - "Logo nelle comunicazioni mail pre/post evento"
       - "Logo sul sito della conferenza"
-      - "Ringraziamenti in diretta durante apertura e chiusura dell'evento"
+      - "Ringraziamenti durante apertura e chiusura dell'evento"
+      - "Ringraziamenti dedicati sui social"
     description_6:
-      - "<strong>1</strong> biglietto free per l'evento di persona"
+      - "<strong>1</strong> biglietti free per l'evento di persona"
       - "<strong>4</strong> biglietti free per l'evento online"
   level_6:
     name: Bronze
     amount: 250
-    vat_label: "(+ VAT 22%)"
-    available_slots: 16
+    vat_label: "(+ IVA 22%)"
+    available_slots: 32
     description_5:
-      - "Logo nelle comunicazioni pre-evento"
+      - "Logo nelle comunicazioni mail pre/post evento"
       - "Logo sul sito della conferenza"
-      - "Ringraziamenti in diretta durante apertura e chiusura dell'evento"
+      - "Ringraziamenti durante apertura e chiusura dell'evento"
+      - "Ringraziamenti dedicati sui social"
     description_6:
       - "<strong>2</strong> biglietti free per l'evento online"
   level_7:
     name: Diversity
-    amount: 500
-    vat_label: "(+ VAT 22%)"
-    available_slots: 2
+    amount: 250
+    vat_label: "(+ IVA 22%)"
+    available_slots: 32
     description_5:
-      - "Logo nelle comunicazioni pre-evento"
+      - "Logo nelle comunicazioni mail pre/post evento"
       - "Logo sul sito della conferenza"
-      - "Ringraziamenti in diretta durante apertura e chiusura dell'evento"
+      - "Ringraziamenti durante apertura e chiusura dell'evento"
+      - "Ringraziamenti dedicati sui social"
     description_6:
       - "<strong>2</strong> biglietti free per l'evento online"
