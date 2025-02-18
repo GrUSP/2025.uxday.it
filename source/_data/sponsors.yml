@@ -19,17 +19,21 @@ gold:
     name: "Daruma"
     logo_filename: "daruma.svg"
     site_url: "http://www.darumahq.com/"
+  sponsor2:
+    name: "WeBeetle"
+    logo_filename: "webeetle.svg"
+    site_url: "https://www.webeetle.com/"
 silver:
   sponsor1:
     name: "workwave"
     logo_filename: "workwave.svg"
     site_url: "https://www.workwave.com/"
-# bronze:
-#   sponsor2:
-#     name: "stickermule"
-#     logo_filename: "stickermule.svg"
-#     site_url: "https://mule.to/p2gc"
-# diversity:
+bronze:
+  sponsor2:
+    name: "Tangible"
+    logo_filename: "tangible.svg"
+    site_url: "https://tangible.is/"
+diversity:
 #   sponsor1:
 #     name: "S"
 #     logo_filename: ""

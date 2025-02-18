@@ -15,13 +15,13 @@ menu:
 
 # workshops submenu (comment out if only one workshop: add items for multiple workshops)
 workshop_submenu:
-   font_variabili: Tipografia web e font variabili
+#   font_variabili: Tipografia web e font variabili
 #   workshop_2: sample second workshop
 
 # welcome submenu
 welcome_submenu:
   about: about
-  cfp: call for paper
+  # cfp: call for paper
   where: dove e come
   # safety: salute pubblica
   scholarships: borse di studio

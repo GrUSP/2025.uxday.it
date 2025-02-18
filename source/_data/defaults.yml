@@ -46,7 +46,7 @@ conference:
   update_link_url: "https://2023.uxday.it/welcome/about.html#comunicato"
   update_link_label: "Maggiori spiegazioni sul rinvio"
   # "call for papers" component. set the first parameter to true to make it appear in home page, false means hidden
-  cfp_open: true
+  cfp_open: false
   cfp_readmore_label: "Continua a leggere"
   cfp_open_label: "Proponi un talk entro il"
   cfp_open_title: "Call For Papers aperta!"
@@ -89,10 +89,10 @@ conference:
   newsletter_legal_url: "https://mailchimp.com/legal/"
   newsletter_legal_label: "Informazioni riguardo la privacy policy di Mailchimp"
   # "speakers" component. set the first parameter to true to make it appear in home page, false means hidden
-  speakers_visible: false
+  speakers_visible: true
   speakers_title: ""
   mcs_title: ""
-  speaker_count_text: "Saliranno sul palco di uxday"
+  speaker_count_text: "La CFP è chiusa, stiamo selezionando i talk!"
   # "topics" component. set the first parameter to true to make it appear in home page, false means hidden
   topics_visible: true
   topics_title: "Di cosa parliamo"
