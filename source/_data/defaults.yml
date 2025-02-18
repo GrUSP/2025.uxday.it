@@ -142,7 +142,7 @@ conference:
   sponsors_visible: true
   sponsor_title_home: "Sponsor"
   # this is for the Community partners section in home page
-  community_partners: false
+  community_partners: true
   community_partners_title: "Community partner"
   # community_partners_text: ""
   # this is for the Social links block
