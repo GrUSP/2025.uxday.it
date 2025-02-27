@@ -9,11 +9,11 @@ sponsors_block_title: "Grazie agli sponsor"
 #     name: ""
 #     logo_filename: ""
 #     site_url: ""
-# platinum:
-#   sponsor1:
-#     name: ""
-#     logo_filename: ""
-#     site_url: ""
+platinum:
+  sponsor1:
+    name: "Amplifon"
+    logo_filename: "amplifon.svg"
+    site_url: "https://www.amplifon.com/"
 gold:
   sponsor1:
     name: "Daruma"
