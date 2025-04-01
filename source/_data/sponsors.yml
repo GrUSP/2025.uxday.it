@@ -29,6 +29,10 @@ silver:
     logo_filename: "workwave.svg"
     site_url: "https://www.workwave.com/"
 bronze:
+  sponsor1:
+    name: "Buildo"
+    logo_filename: "buildo.svg"
+    site_url: "https://www.buildo.com/"
   sponsor2:
     name: "Tangible"
     logo_filename: "tangible.svg"
